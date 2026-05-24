@@ -28,7 +28,6 @@ Microsoft Excel
 ✨ SQL Query Writing
 ✨ Database Management
 ✨ Data Filtering & Sorting
-✨ Data Aggregation
 ✨ Analytical Thinking
 ✨ Business Insight Extraction
 
