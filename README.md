@@ -1,6 +1,6 @@
 🚀SQL Data Analysis Project – DecodeLabs Internship
 
-This project was completed as part of my Data Analytics Internship at .
+This project was completed as part of my Data Analytics Internship.
 
 The objective of this project was to perform SQL-based data analysis using XAMPP and MySQL to extract meaningful insights from structured datasets. The project focuses on writing SQL queries for filtering, grouping, sorting, and analyzing data efficiently.
 
